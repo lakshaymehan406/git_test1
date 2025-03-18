@@ -1,1 +1,1 @@
-this is the commit for branch2
+this is for commit the right way
